@@ -1,4 +1,5 @@
-100 tag
+50 tag
 1 bateria
 2 lectores
 1 control de acceso
+1 caja estanco
