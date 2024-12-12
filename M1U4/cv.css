@@ -1,7 +1,7 @@
 h1 {
     color: blue;
     font-family: Arial;
-    r background-color: aquamarine;
+    background-color: aquamarine;
     text-align: center;
 }
 
@@ -17,4 +17,13 @@ h1 {
 
 #amarillo {
     background-color: rgb(234, 232, 210);
+}
+
+.recuadro3 {
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+    border: 5px solid red;
+    margin-top: 5px;
 }
