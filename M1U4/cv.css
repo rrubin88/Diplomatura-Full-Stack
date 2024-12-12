@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    font-family: Arial;
+    r background-color: aquamarine;
+    text-align: center;
+}
+
+.recuadro {
+    background-color: chartreuse;
+    width: 100px;
+    height: 20px;
+}
+
+.recuadro2 {
+    background-color: orangered;
+}
+
+#amarillo {
+    background-color: rgb(234, 232, 210);
+}
