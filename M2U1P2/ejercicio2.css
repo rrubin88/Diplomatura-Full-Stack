@@ -1,0 +1,46 @@
+.itemrojo {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(202, 12, 12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.itemazul {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(12, 12, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.itemverde {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(28, 202, 12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.contenedor {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    height: 500px;
+    border: 2px solid #000;
+    color: white;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
