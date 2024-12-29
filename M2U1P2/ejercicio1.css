@@ -1,0 +1,30 @@
+.itemrojo {
+    background: red;
+    width: 200px;
+    height: 150px;
+}
+
+.itemazul {
+    background: rgb(37, 3, 234);
+    width: 200px;
+    height: 150px;
+}
+
+.itemverde {
+    background: rgb(27, 135, 3);
+    width: 200px;
+    height: 150px;
+}
+
+p {
+    color: blanchedalmond;
+}
+
+.contenedor {
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+    
+}
